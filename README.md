@@ -1,6 +1,6 @@
 # LB-LMC Solver C++ Code Generation Library
 
-C++ code generation library for the development of real-time simulation solvers of multi-physics systems, utilizing the Latency-Based Linear Multistep Compound (LB-LMC) method.
+C++ code generation library for the development of real-time simulation solvers of multi-physics electrical and power electronic systems, utilizing the Latency-Based Linear Multistep Compound (LB-LMC) method.
 
 ## Requirements
 
