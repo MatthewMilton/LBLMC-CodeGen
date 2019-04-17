@@ -13,6 +13,10 @@ Besides the C++ standard library, this library depends on the following third-pa
   * Eigen 3 -- Linear Algebra Template Library
 http://eigen.tuxfamily.org/
 
+## License
+
+LB-LMC Solver C++ Code Generation Library is licensed under the GNU General Public License (GPL) v3.0 (https://www.gnu.org/licenses/).
+
 ## Literature 
   
 The LB-LMC simulation solver algorithm was first proposed in:  
