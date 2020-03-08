@@ -1,13 +1,15 @@
 # LB-LMC Solver C++ Code Generation Library
 
-C++ code generation library for the development of real-time simulation solvers of multi-physics electrical and power electronic systems, utilizing the Latency-Based Linear Multistep Compound (LB-LMC) method.
-
-Utilizing this library and FPGA High-Level Synthesis (HLS) tools, real-time simulation solvers of sizable power electronic systems executing on FPGA devices with 50ns simulation time steps are feasible.
-
 This library is now part of the Open Real-Time Simulation (ORTiS) framework and its new home is found here:
 https://github.com/OpenRealTimeSimulation
 
 Please go to the link above for the latest version of the library.
+
+----
+
+C++ code generation library for the development of real-time simulation solvers of multi-physics electrical and power electronic systems, utilizing the Latency-Based Linear Multistep Compound (LB-LMC) method.
+
+Utilizing this library and FPGA High-Level Synthesis (HLS) tools, real-time simulation solvers of sizable power electronic systems executing on FPGA devices with 50ns simulation time steps are feasible.
 
 ## Requirements
 
